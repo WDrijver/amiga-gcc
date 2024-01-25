@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../binutils-gdb"
+        },
+        {
+            "path": "../gcc"
+        }
+    ]
+}
