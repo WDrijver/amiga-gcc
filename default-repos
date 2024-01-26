@@ -1,9 +1,9 @@
 amiga-netinclude   https://github.com/bebbo/amiga-netinclude	    master
-binutils           https://github.com/WDrijver/binutils-gdb		    WD-Binutils-DBRAL
+binutils           https://github.com/WDrijver/binutils-gdb		    WD-Binutils-ALL1
 clib2              https://github.com/bebbo/clib2				    master
 fd2pragma          https://github.com/bebbo/fd2pragma			    master
 fd2sfd             https://github.com/adtools/fd2sfd			    master
-gcc                https://github.com/WDrijver/gcc				    WD-GCC-DBRAL
+gcc                https://github.com/WDrijver/gcc				    WD-GCC-ALL1
 ira                https://github.com/bebbo/ira				        master
 ixemul             https://github.com/bebbo/ixemul				    master
 lha                https://github.com/jca02266/lha				    master
