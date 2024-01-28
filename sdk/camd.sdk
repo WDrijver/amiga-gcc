@@ -1,6 +1,6 @@
 Short: 	CAMD developer kit for MorphOS
 Version: 37.1
-Url: http://aminet.net/dev/c/camd-morphos-dev.lha
+Url: https://aminet.net/dev/c/camd-morphos-dev.lha
 
 patch : camd_lib.fd.diff
 
