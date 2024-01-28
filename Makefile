@@ -42,7 +42,7 @@ $(foreach modu,$(modules),$(eval $(modu)_URL=$(call get_url,$(modu))))
 $(foreach modu,$(modules),$(eval $(modu)_BRANCH=$(call get_branch,$(modu))))
 
 ifneq ($(NDK),3.9)
-NDK_URL              := http://aminet.net/dev/misc/NDK3.2.lha
+NDK_URL              := https://aminet.net/dev/misc/NDK3.2.lha
 NDK_ARC_NAME         := NDK3.2
 NDK_FOLDER_NAME      := NDK3.2
 NDK_FOLDER_NAME_H    := NDK3.2/Include_H
@@ -673,10 +673,10 @@ $(BUILD)/vbcc_target_m68k-amigaos.info: $(DOWNLOAD)/vbcc_target_m68k-amigaos.lha
 	@touch $(BUILD)/vbcc_target_m68k-amigaos.info
 
 $(DOWNLOAD)/vbcc_target_m68k-kick13.lha:
-	$(L0)"downloading vbcc_target"$(L1) cd $(DOWNLOAD) && wget http://aminet.net/dev/c/vbcc_target_m68k-kick13.lha -O vbcc_target_m68k-kick13.lha $(L2)
+	$(L0)"downloading vbcc_target"$(L1) cd $(DOWNLOAD) && wget https://aminet.net/dev/c/vbcc_target_m68k-kick13.lha -O vbcc_target_m68k-kick13.lha $(L2)
 
 $(DOWNLOAD)/vbcc_target_m68k-amigaos.lha:
-	$(L0)"downloading vbcc_target"$(L1) cd $(DOWNLOAD) && wget http://aminet.net/dev/c/vbcc_target_m68k-amiga.lha -O vbcc_target_m68k-amigaos.lha $(L2)
+	$(L0)"downloading vbcc_target"$(L1) cd $(DOWNLOAD) && wget https://aminet.net/dev/c/vbcc_target_m68k-amiga.lha -O vbcc_target_m68k-amigaos.lha $(L2)
 
 # =================================================
 # L I B R A R I E S

@@ -1,6 +1,6 @@
 Short: Image processing kernel
 Version: 40.8
-Url: http://aminet.net/dev/misc/renderlib.lha
+Url: https://aminet.net/dev/misc/renderlib.lha
 
 renderlib/doc/render = render.guide
 renderlib/doc/render.doc
