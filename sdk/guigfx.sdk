@@ -1,6 +1,6 @@
 Short: Application layer for pixel graphics
 Version: 20.0
-Url: http://aminet.net/dev/misc/guigfxlib.lha
+Url: https://aminet.net/dev/misc/guigfxlib.lha
 
 doc/autodoc/guigfx = guigfx.guide
 doc/autodoc/guigfx.doc
