@@ -1,18 +1,18 @@
-amiga-netinclude   https://github.com/WDrijver/amiga-netinclude	main
-binutils           https://github.com/WDrijver/binutils-gdb main
-clib2              https://github.com/adtools/clib2 main
-fd2pragma          https://github.com/adtools/fd2pragma main
-fd2sfd             https://github.com/adtools/fd2sfd main
-gcc                https://github.com/WDrijver/gcc main
-ira                https://github.com/AmigaPorts/ira main
-ixemul             https://github.com/AmigaPorts/ixemul main
-lha                https://github.com/jca02266/lha main
-libdebug           https://github.com/adtools/libdebug main
-libnix             https://github.com/WDrijver/libnix main
-libSDL12           https://github.com/AmigaPorts/libSDL12 main
-newlib-cygwin      https://github.com/WDrijver/newlib-cygwin main
-sfdc               https://github.com/WDrijver/sfdc main
-vasm               https://github.com/mheyer32/vasm main
-vbcc               https://github.com/AmigaPorts/vbcc main
-vlink              https://github.com/AmigaPorts/vlink main
-aros-stuff         https://github.com/WDrijver/aros-stuff main
+amiga-netinclude   https://github.com/WDrijver/amiga-netinclude
+binutils           https://github.com/WDrijver/binutils-gdb
+clib2              https://github.com/adtools/clib2
+fd2pragma          https://github.com/adtools/fd2pragma
+fd2sfd             https://github.com/adtools/fd2sfd
+gcc                https://github.com/WDrijver/gcc
+ira                https://github.com/AmigaPorts/ira
+ixemul             https://github.com/AmigaPorts/ixemul
+lha                https://github.com/jca02266/lha
+libdebug           https://github.com/adtools/libdebug
+libnix             https://github.com/WDrijver/libnix
+libSDL12           https://github.com/AmigaPorts/libSDL12
+newlib-cygwin      https://github.com/WDrijver/newlib-cygwin
+sfdc               https://github.com/WDrijver/sfdc
+vasm               https://github.com/mheyer32/vasm
+vbcc               https://github.com/AmigaPorts/vbcc
+vlink              https://github.com/AmigaPorts/vlink
+aros-stuff         https://github.com/WDrijver/aros-stuff
