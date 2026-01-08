@@ -12,7 +12,7 @@ libnix             /home/willem/ApolloCrossDev.Sources/libnix               mast
 libSDL12           https://github.com/AmigaPorts/libSDL12		            master
 newlib-cygwin      /home/willem/ApolloCrossDev.Sources/newlib-cygwin        amiga
 sfdc               /home/willem/ApolloCrossDev.Sources/sfdc                 master
-vasm               /home/willem/ApolloCrossDev.Sources/vasm                 master
+vasm               /home/willem/ApolloCrossDev.Sources/vasm                 main
 vbcc               https://github.com/AmigaPorts/vbcc				        master
 vlink              https://github.com/AmigaPorts/vlink			            master
 aros-stuff         /home/willem/ApolloCrossDev.Sources/aros-stuff			master
